@@ -10,6 +10,7 @@ This plugin doesn't need any configuration. It just works since 2009. ;)
 ## Setup
 
 Requires at least WordPress version: 2.3
+
 Tested up to WordPress current wordpress version.
 
 - Copy the Tags 2 Meta Keywords plugin folder into the WordPress plugin directory (/wp-content/plugins/)
