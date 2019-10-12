@@ -8,11 +8,10 @@ Generates meta keywords automatically from your post tags of your WordPress blog
 This plugin doesn't need any configuration. It just works since 2009. ;)
 
 ## Setup
+- Copy the Tags 2 Meta Keywords plugin folder into the WordPress plugin directory (/wp-content/plugins/)
+- Activate the plugin in the Wordpress backend
+- That's it. It works!
 
 Requires at least WordPress version: 2.3
 
 Tested up to WordPress current wordpress version.
-
-- Copy the Tags 2 Meta Keywords plugin folder into the WordPress plugin directory (/wp-content/plugins/)
-- Activate the plugin in the Wordpress backend
-- That's it. It works!
